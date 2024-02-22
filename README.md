@@ -1,6 +1,7 @@
 # Assignment: Architectural Decisions
 
 Ethan Schwab
+
 Deepinder Singh Aulakh
 
 ## Architecture decision 1: Choice of Native App Development

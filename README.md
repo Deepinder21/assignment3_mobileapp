@@ -53,7 +53,7 @@ React native enables us to write code that can deployed across multiple platform
 ### Status 
 Accepted
 
-###Consequences
+### Consequences
 
 **Efficient development and Cross-platform compatibility:** As react native is compatible with both android and iOS it allows rapid development reducing development time and efforts. It also ensures consistency across various platforms and reduced maintenance time.
 
